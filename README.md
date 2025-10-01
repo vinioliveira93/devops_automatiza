@@ -14,3 +14,9 @@ Seja muito bem-vindo ao repositório! Este é um projeto com exemplos básicos u
 ### 🗂️ Estrutura do Projeto 
 
 
+### Adicionando Conteudo Remotamente
+
+---
+
+## Como Trabalhar com o Git 
+
